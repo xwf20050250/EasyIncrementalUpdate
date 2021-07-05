@@ -1,3 +1,5 @@
+Android差分补丁库，通过native层合并APK
+
 # EasyIncrementalUpdate
 
 [![](https://img.shields.io/badge/jcenter-1.1.2-519dd9.svg)](https://bintray.com/yale8848/maven/easyincremetalupdate)
